@@ -86,11 +86,11 @@ header .textos-header{
 }
   
 .imagen-about-us{
-    width: 120%;
+    width: 95%;
 }
   
 .sobre-nosotros .contenido-textos{
-    width: 50%;
+    width: 100%;
 }
 
 .contenido-textos h3{
@@ -145,7 +145,7 @@ header .textos-header{
 }
 
 .cards .card > .contenido-texto-card{
-    width: 60%;
+    width: 52%;
     color: #fff;
 }
 
